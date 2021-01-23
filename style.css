@@ -150,6 +150,10 @@ input[type='text'] {
     }
   }
   @media (max-width: 500px) {
+    h1 {
+      font-size: 22px;
+    }
+
     input[type='text'] {
       width: 100%;
     }
